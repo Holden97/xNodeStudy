@@ -496,3 +496,4 @@ Received Import Request.
 Start importing Assets/Graph/New New Node Graph 1.asset using Guid(652d1bd327a2e714ab6f039025ca728d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4793f91b3a54ba6992f0364ae80fc62c') in 0.006914 seconds 
   Import took 0.009821 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
